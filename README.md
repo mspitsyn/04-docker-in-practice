@@ -76,12 +76,15 @@ services:
 ![screenshot sql-запросов](screenshots/task-3.png)  
 
 ## Решение задачи  4  
-  
+![screenshot 4.0.1](screenshots/task-4.0.1.png)  
+![screenshot 4.0.2](screenshots/task-4.0.2.png)  
+[bash script](dl-start-project.sh)  
+[fork repository](https://github.com/mspitsyn/shvirtd-example-python.git)
 
 
 ## Решение задачи  6  
 
-Скачайте docker образ `hashicorp/terraform:latest` и скопируйте бинарный файл `/bin/terraform` на свою локальную машину, используя dive и docker save. Предоставьте скриншоты действий.  
+Скачайте docker образ `hashicorp/terraform:latest` и скопируйте бинарный файл `/bin/terraform` на свою локальную машину, используя `dive` и `docker save`. Предоставьте скриншоты действий.  
 
 ![screenshot 6.0.0](screenshots/task-6.png)
 ![screenshot 6.0.1](screenshots/task-6.0.1.png)  
